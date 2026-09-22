@@ -56,7 +56,7 @@
       '<rect x="120" y="98" width="9" height="20" rx="2" fill="#F97316"/>' +
       '<rect x="134" y="98" width="9" height="15" rx="2" fill="#F97316"/>' +
       '<text x="72" y="107" text-anchor="middle" font-family="\'PingFang SC\',\'Microsoft YaHei\',sans-serif" font-size="34" font-weight="800" fill="#F97316">工</text>' +
-      '<text x="168" y="124" font-family="\'PingFang SC\',\'Microsoft YaHei\',sans-serif" font-weight="800"><tspan fill="#F97316" font-size="85">计算器</tspan><tspan fill="currentColor" font-size="70">工具箱</tspan></text>' +
+      '<text x="168" y="124" font-family="\'PingFang SC\',\'Microsoft YaHei\',sans-serif" font-weight="800"><tspan fill="#F97316" font-size="85"></tspan><tspan fill="currentColor" font-size="70">计算器</tspan></text>' +
       '</svg>';
   }
   function injectLogo() {
